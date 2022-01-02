@@ -10,3 +10,5 @@
 Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
 
 Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
+
+![](https://github.com/emirhankaya17/patika_oop/blob/main/jpg/PRATIK1.jpg)
